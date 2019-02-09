@@ -1,5 +1,8 @@
 package ZohoQuestions.ZohoQuestions;
 
+/** Remove unbalanced parentheses in a given expression. 
+Example —> Input: ((abc)((de)) | Output: ((abc)(de)) **/
+
 import java.util.Scanner;
 
 public class UnbalancedParanthesis {
